@@ -4,7 +4,7 @@
   "description": "fast 7z cli tools",
   "main": "index.js",
   "bin": {
-    "7zz": "./bin/index.js",
+    "zz": "./bin/index.js",
     "za": "./bin/index.js"
   },
   "scripts": {
