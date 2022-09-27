@@ -1,0 +1,20 @@
+{
+  "name": "za-7z",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "7zz": "./bin/index.js",
+    "za": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "minimist": "^1.2.6"
+  }
+}
