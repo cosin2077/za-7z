@@ -1,7 +1,7 @@
 {
   "name": "za-7z",
   "version": "0.0.1",
-  "description": "",
+  "description": "fast 7z cli tools",
   "main": "index.js",
   "bin": {
     "7zz": "./bin/index.js",
