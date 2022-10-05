@@ -1,6 +1,6 @@
 {
   "name": "za-7z",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "fast 7z cli tools",
   "main": "index.js",
   "bin": {
@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
+    "command-exists": "^1.2.9",
     "minimist": "^1.2.6"
   }
 }
