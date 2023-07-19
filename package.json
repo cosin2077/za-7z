@@ -1,11 +1,12 @@
 {
   "name": "za-7z",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "description": "fast 7z cli tools",
   "main": "index.js",
   "bin": {
     "zz": "./bin/index.js",
-    "za": "./bin/index.js"
+    "za": "./bin/index.js",
+    "zx": "./bin/zx.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
