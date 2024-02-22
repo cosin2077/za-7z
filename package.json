@@ -1,6 +1,6 @@
 {
   "name": "za-7z",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "description": "fast 7z cli tools",
   "main": "index.js",
   "bin": {
@@ -15,6 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/cosin2077/za-7z.git"
   },
+  "bugs": {
+    "url": "https://github.com/cosin2077/za-7z/issues"
+  },
+  "homepage": "https://github.com/cosin2077/za-7z#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
