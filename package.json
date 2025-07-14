@@ -6,7 +6,8 @@
   "bin": {
     "zz": "./bin/index.js",
     "za": "./bin/index.js",
-    "zx": "./bin/zx.js"
+    "zx": "./bin/zx.js",
+    "zajson": "./bin/zajson.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
