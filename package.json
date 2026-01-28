@@ -1,6 +1,6 @@
 {
   "name": "za-7z",
-  "version": "0.11.10",
+  "version": "0.11.11",
   "description": "fast 7z cli tools",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,9 @@
     "zajson": "./bin/zajson.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:glob && npm run test:zx",
+    "test:glob": "node test/test-glob.js",
+    "test:zx": "node test/test-zx-glob.js"
   },
   "repository": {
     "type": "git",
